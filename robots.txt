@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://felixhenninger.github.io/tapp/sitemap.xml
